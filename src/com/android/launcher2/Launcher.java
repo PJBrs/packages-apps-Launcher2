@@ -298,11 +298,11 @@ public final class Launcher extends Activity
 	if (mIsFirstLaunch) {
 		mIsFirstLaunch = false;
 		alertbox("Welcome to Oxygen!", 
-		 "This ROM has been extensively tested and is mostly bug free, however if you do happen to have a problem, please attempt a *FULL* wipe before reporting it.\n" +
+		 "Oxygen ROM has a long reputation of being stable, simple, and battery-friendly. This is an unofficial release of Oxygen, with a couple of small changes.\n" +
 		 "\n" +
-		 "Finally from all of us at the Oxygen team, we hope you have a great experience using Oxygen.\n" +
+		 "Thanks to the original Oxygen team for putting together a great rom and giving many users a great experience!\n" +
 		 "\n" +
-                 "For support visit oxygen.im.");
+                 "Hope you like it -- PJBrs");
 	}
     }
 
